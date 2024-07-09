@@ -6,16 +6,17 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: teal
+  font: serif
 
 # SEO
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'Fahima Mohideen'
+    description: 
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -29,18 +30,22 @@ marketing:
 # Site header
 header:
   navbar:
+    # Display the navigation bar?
     enable: true
+    # Choose a built-in navigation blox or create your own
     blox: "navbar"
+    # Align menu links: `left`, `center`, or `right`
+    align: "right"
+    # Fix the navigation bar to the top of the page
     fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
-    logo:
-      text: "Your Name"
+    show_day_night: true
+    show_search: false
+    highlight_active_link: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ' '
     license:
       enable: true
       allow_derivatives: false

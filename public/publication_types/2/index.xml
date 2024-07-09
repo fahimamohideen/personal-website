@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Fahima Mohideen</title>
+    <link>http://localhost:1313/publication_types/2/</link>
+      <atom:link href="http://localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>http://localhost:1313/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Routines and Meaning in Life: Does Activity Content or Context Matter?</title>
+      <link>http://localhost:1313/publication/routines-2022/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/routines-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strengths-based positive schooling interventions: A scoping review</title>
+      <link>http://localhost:1313/publication/strengths-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/strengths-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lay beliefs about meaning in life: Examinations across targets, time, and countries</title>
+      <link>http://localhost:1313/publication/lay-beliefs-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lay-beliefs-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
